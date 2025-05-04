@@ -1,1 +1,2 @@
-Placeholder for contributing.md
+# Contributing
+Coming soon
