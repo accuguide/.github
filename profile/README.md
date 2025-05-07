@@ -2,6 +2,11 @@
 
 Discover accessibility near you!
 
+## About
+
+## Beta
+Beta access coming soon!
+
 ## Sponsors
 Please consider sponsoring us so we can ensure that Access Finder can continue to be freely developed, deployed, and maintained.
 
