@@ -11,5 +11,3 @@ Here are some other quick links that may be helpful!
 Blog: https://blog.accuguide.org
 
 Beta Access: https://beta.accuguide.org
-
-Analytics Access: https://analytics.accuguide.org/share/cl50RZmDIDSf2LIH/accuguide.org
