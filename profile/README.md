@@ -8,4 +8,4 @@ Accuguide is deployed and can be used at https://accuguide.org
 
 Blog: https://blog.accuguide.org
 
-Beta Access: https://beta.accuguide.org
+Open Beta: https://beta.accuguide.org
