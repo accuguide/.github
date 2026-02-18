@@ -1,12 +1,10 @@
 # Accuguide
 
-This is the official Github organization page for Accuguide. Our namesake project is currently in active development, and you can find more information about it, as well as how to contribute, at the link to the repository below!
+Welcome to Accuguide's official Github organization page. Our namesake project is currently deployed and in active development. You can read more about Accuguide and learn how to contribute at the corresponding repository below!
 
-Accuguide can be found at https://accuguide.org!
+Accuguide is deployed and can be used at https://accuguide.org
 
 ## Quick Links
-
-Here are some other quick links that may be helpful!
 
 Blog: https://blog.accuguide.org
 
