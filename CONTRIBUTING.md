@@ -1,10 +1,62 @@
-# Contributing
-We are excited that you have chosen to contribute to Accuguide! We want to ensure contributing is a smooth experience both for repository maintainers and contributors, so we have a few guidelines to follow.
+# Contributing to Accuguide
+Thank you for your interest in contributing to **Accuguide**! 🎉
+We’re excited to collaborate with you and want to make the contribution process smooth and efficient for everyone.
 
-1. Ensure your code is clean and well formatted - we use Biome, and once you open a pull request, there will be a status check to check if your code follows the Biome format. It is reccommended to run `bun format` to format your code prior to opening a pull request.
-  
-2. Make sure your code passes lint checks - this also has a status check on pull requests, but you can manually check with `bun lint`.
+Please review and follow the guidelines below before submitting your pull request.
 
-3. Make sure all code status checks pass - Let us know if you need help resolving a failed check. Our pull request status checks include tests, formatting, linting, builds, codeql, and Netlify build checks.
-   
-4. Feel free to reach out to us if you have questions, comments, or concerns! You can reach us via replying to Github issue, opening a Github discussion, or emailing us at dev@accuguide.org.
+---
+
+## 📋 Contribution Checklist
+
+### 1️⃣ Code Formatting
+
+We use **Biome** to maintain consistent code style across the repository.
+
+* Run the formatter before opening a pull request:
+
+  ```bash
+  bun format
+  ```
+* A formatting check will automatically run when you submit your PR.
+* Pull requests that do not pass formatting checks cannot be merged.
+
+---
+
+### Linting
+
+Ensure your code passes all lint rules before submitting:
+
+```bash
+bun lint
+```
+
+Lint checks are also enforced via automated PR status checks.
+
+---
+
+### Status Checks
+
+All pull requests must pass the required status checks before being merged. These include:
+
+* Tests
+* Formatting
+* Linting
+* Build
+* CodeQL
+* Netlify build
+
+If a check fails and you're unsure how to resolve it, feel free to ask for help — we’re happy to assist.
+
+---
+
+## Need Help?
+
+If you have any questions, suggestions, or concerns, you can reach us through:
+
+* Replying to a GitHub issue
+* Opening a GitHub Discussion
+* Emailing us at **[dev@accuguide.org](mailto:dev@accuguide.org)**
+
+---
+
+We appreciate your contributions and look forward to building Accuguide together! 🚀
