@@ -1,5 +1,6 @@
 # Contributing to Accuguide
-Thank you for your interest in contributing to **Accuguide**! 🎉
+Thank you for your interest in contributing to **Accuguide**!
+
 We’re excited to collaborate with you and want to make the contribution process smooth and efficient for everyone.
 
 Please review and follow the guidelines below before submitting your pull request.
