@@ -60,4 +60,4 @@ If you have any questions, suggestions, or concerns, you can reach us through:
 
 ---
 
-We appreciate your contributions and look forward to building Accuguide together! 🚀
+We look forward to your contribution!
