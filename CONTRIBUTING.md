@@ -7,9 +7,9 @@ Please review and follow the guidelines below before submitting your pull reques
 
 ---
 
-## 📋 Contribution Checklist
+## Contribution Checklist
 
-### 1️⃣ Code Formatting
+### Code Formatting
 
 We use **Biome** to maintain consistent code style across the repository.
 
